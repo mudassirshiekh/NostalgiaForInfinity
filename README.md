@@ -19,6 +19,7 @@ Add strategies to the [user_data/strategies](user_data/strategies) folder and al
 [Additional Information : NFINext is a older strategy on 5m tf , NFI-NG is a 15m tf strategy abandoned mid development , NFIX is the currently developed strategy (a rework of NG on 5m tf)]
 
 ## General Recommendations
+## By Mudassir Alam
 
 For optimal performance, suggested to use between 4 and 6 open trades, with unlimited stake.
 
@@ -37,6 +38,7 @@ Ensure that you don't override any variables in you config.json. Especially the 
 ## Hold support
 
 ### Specific Trades
+## Specific Trader By Mudassir Alam
 
 In case you want to have SOME of the trades to only be sold when on profit, add a file named "nfi-hold-trades.json" in your `user_data/` directory
 
